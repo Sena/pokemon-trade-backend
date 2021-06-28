@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MDB_USER": "sena",
+    "MDB_PASSWORD": "superSenhaSecreta",
+    "MDB_HOST": "cluster0.zlyge.mongodb.net",
+  }
+}
